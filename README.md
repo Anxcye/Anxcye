@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+😃 I'm a undergraduate student major in computer science.
+
+
+
+🔗 [Anxcye](https://Anxcye.com)
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anxcye&count_private=true)](https://github.com/anuraghazra/github-readme-stats)-->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anxcye&exclude_repo=Chisel-Bootmap-Chinese&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
