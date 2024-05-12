@@ -24,3 +24,11 @@ I'm an undergraduate student majoring in computer science. 😃
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anxcye&count_private=true&layout=donut&size_weight=0&count_weight=1)](https://github.com/anuraghazra/github-readme-stats)-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anxcye&exclude_repo=Chisel-Bootmap-Chinese&langs_count=10&layout=compact)](https://github.com/Anxcye)
+
+![C](https://img.shields.io/badge/C-%23A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Javascript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=white)
+
+
+
+
