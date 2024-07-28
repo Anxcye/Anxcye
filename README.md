@@ -25,7 +25,9 @@ I'm an undergraduate student majoring in computer science. 😃
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anxcye&exclude_repo=Chisel-Bootmap-Chinese&langs_count=10&layout=compact)](https://github.com/Anxcye)
 
-
+<details>
+<summary>My Skills</summary>
+  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
@@ -55,6 +57,6 @@ I'm an undergraduate student majoring in computer science. 😃
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
+</details>
 
 
