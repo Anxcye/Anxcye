@@ -15,15 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm an undergraduate student majoring in computer science. 😃
-
-
+Coding with love!
 
 
 🔗 [Anxcye](https://Anxcye.com)
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anxcye&count_private=true&layout=donut&size_weight=0&count_weight=1)](https://github.com/anuraghazra/github-readme-stats)-->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anxcye&exclude_repo=Chisel-Bootmap-Chinese&langs_count=10&layout=compact)](https://github.com/Anxcye)
 
 <details>
 <summary>My Skills</summary>
